@@ -30,6 +30,6 @@ Future<void> MongoDB(String URL) async {
 }
 
 void main(List<String> arguments) async {
-  const database_url = '';
+  const database_url = 'your database`s url';
   await MongoDB(database_url).then((balue) => exit(0));
 }
