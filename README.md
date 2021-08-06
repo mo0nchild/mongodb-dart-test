@@ -1,1 +1,1 @@
-# mongodb-dart-test
+A simple command-line application.
